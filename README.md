@@ -13,9 +13,9 @@ Programacion/
 ├── 3_Entradas
 ├── 4_Variables
 ├── 5_Estructuras
-└── 6_Casting
-└── 7_Deciciones
-└── 8_Bucles
+├── 6_Casting
+├── 7_Deciciones
+├── 8_Bucles
 
 
 yaml
@@ -62,10 +62,12 @@ Ejercicios sobre **if-else-elif**: como condicionales (`if`, `else`) y ciclos (`
 📌 *Objetivo:* aprender a controlar el flujo de un programa.
 
 ---
+
 ### 📂 8_Bucles
 Ejercicios sobre **for-while**: como condicionales (`if`, `else`) y ciclos (`for`, `while`).
 📌 *Objetivo:* aprender a usar bubcles y ciclos.
 
+---
 
 
 ## 🧠 Propósito del repositorio
